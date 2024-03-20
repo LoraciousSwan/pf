@@ -6,22 +6,16 @@ import { Card } from "../components/card";
 
 const socials = [
   {
-    icon: <Twitter size={20} />,
-    href: "https://twitter.com/Kn1ghtblood",
-    label: "Twitter",
-    handle: "@Kn1ghtblood",
-  },
-  {
     icon: <Mail size={20} />,
-    href: "mailto:ghxst0x1@proton.me",
+    href: "mailto:cassidy@cassidycamp.work",
     label: "Email",
-    handle: "ghxst0x1@proton.me",
+    handle: "Click To View",
   },
   {
     icon: <Github size={20} />,
-    href: "https://github.com/ghxst0x1",
+    href: "https://github.com/FlipMods",
     label: "Github",
-    handle: "ghxst0x1",
+    handle: "FlipMods",
   },
 ];
 
